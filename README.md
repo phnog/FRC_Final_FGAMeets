@@ -11,6 +11,10 @@ Este projeto permite comunicação em tempo real entre dois usuários via WebRTC
 - **Alternância de câmeras**: Alterne entre múltiplas câmeras (se disponíveis).
 - **Controle de áudio e vídeo**: Silencie o microfone ou desligue a câmera durante a chamada.
 
+## Demostrção da aplicação 
+[Youtube](https://youtu.be/7cLSSfWBGHA)
+[GoogleDrive](https://drive.google.com/drive/folders/1rZlOLwlRr9bbd1CxPubnz81eIugvuflO?usp=sharing)
+
 ## Requisitos
 
 - **Node.js** (versão 14 ou superior)
