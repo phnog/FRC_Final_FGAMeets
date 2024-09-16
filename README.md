@@ -51,7 +51,7 @@ Abra o arquivo HTML do cliente no navegador para iniciar a aplicação de chat e
 Abra o arquivo index.html no navegador:
 
 No Windows ou Mac:
-aperte cntrl + F5 no arquivo ou use um servidor estático como o Live Server se necessário.
+Aperte Ctrl + F5 no arquivo ou use um servidor estático como o Live Server se necessário, caso esteja utilizando o VSCode, ou ultilize outro interpretador de HTML.
 
 No Linux ou WSL
 ```bash
